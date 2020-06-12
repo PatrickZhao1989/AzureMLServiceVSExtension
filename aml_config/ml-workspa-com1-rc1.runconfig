@@ -16,17 +16,17 @@
                     "python=3.6.2",
                     {
                         "pip": [
-                            "azureml-core==1.7.0",
-                            "azureml-defaults==1.7.0",
-                            "azureml-telemetry==1.7.0",
-                            "azureml-train-restclients-hyperdrive==1.7.0",
-                            "azureml-train-core==1.7.0",
+                            "azureml-core==1.6.0",
+                            "azureml-defaults==1.6.0",
+                            "azureml-telemetry==1.6.0",
+                            "azureml-train-restclients-hyperdrive==1.6.0",
+                            "azureml-train-core==1.6.0.post1",
                             "tensorflow==1.15.0",
                             "horovod==0.16.1"
                         ]
                     }
                 ],
-                "name": "azureml_5cdf813b7d79d2b20d22f71df2818a09"
+                "name": "azureml_86a5da05d038a6eeecf2849439640059"
             },
             "baseCondaEnvironment": null
         },
@@ -50,7 +50,7 @@
             "precachePackages": true
         },
         "inferencingStackVersion": null,
-        "configUri": "/subscriptions/d84d5666-c34b-4946-8687-d43cc3d695d3/resourceGroups/Machine-Learning/providers/Microsoft.MachineLearningServices/workspaces/ml-workspace/environments/AzureML-TensorFlow-1.13-CPU/versions/28"
+        "configUri": "/subscriptions/d84d5666-c34b-4946-8687-d43cc3d695d3/resourceGroups/Machine-Learning/providers/Microsoft.MachineLearningServices/workspaces/ml-workspace/environments/AzureML-TensorFlow-1.13-CPU/versions/27"
     },
     "history": {
         "outputCollection": true,
