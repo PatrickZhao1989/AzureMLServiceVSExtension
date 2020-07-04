@@ -5,7 +5,7 @@ import json
 (X_train, Y_train), (X_test, Y_test) = mnist.load_data()
 
 # pick a sample to plot
-sample = 48
+sample = 164
 image = X_train[sample]
 image_array = image.reshape((1,784))
 image_array_decimal = image_array/255
